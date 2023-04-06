@@ -1,0 +1,5 @@
+## Interface: 100002
+## Title: NoBagsWithMap
+## Author: DeeRez
+## Version: 1.0
+NoBagsWithMap.lua
